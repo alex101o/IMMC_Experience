@@ -1,0 +1,8 @@
+Index,"Fail Counters, etc.",Household 0,Household 1,Household 2,Household 3,Household 4,Household 5
+Section 1 Evaluation,2.0,True,True,True,False,True,False
+Section 2: Compatibility Score Evaluation,2.0,76.12436695515711,66.58326322029102,74.58422382708883,71.13852519810035,44.31661970926993,48.08840779230728
+FINAL EVALUATION,3.0,True,True,True,False,False,False
+Deaths,0.0,False,False,False,False,False,False
+Has Pet,1.0,True,True,True,False,False,False
+Retention,0.0,0,0,0,N/A,N/A,N/A
+Average Compatibility Score,63.472567783702424,0,0,0,0,0,0
