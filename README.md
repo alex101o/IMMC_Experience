@@ -1,2 +1,4 @@
-# IMMC_James_Charles_Experience
-This was the culmination of the IMMC James Charles Experience of sadness
+# IMMC_Experience
+Each folder contains the raw number data for the inputs into the function in Main file
+
+(There exists certain backups for the Main files that are out-of-date and unusable)
